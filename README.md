@@ -8,7 +8,7 @@ Put SYSU-MM01 and RegDB dataset into data/sysu and data/regdb, run prepare_sysu.
 - A minimum of 24GB of GPU memory (Batchsize = 64)
 
 ## Getting Started
-Download code
+git clone https://github.com/YimingYang23/PCA_USLVIReID
 
 ### install dependencies
 - conda create -n PCAReID python==3.7
@@ -20,7 +20,7 @@ Download code
 ./PCA_sysu.sh   # for SYSU-MM01
 ./PCA_regdb.sh  # for RegDB
 ```
-### Test
+### Testing
 ```shell
 ./test_sysu.sh    # for SYSU-MM01
 ./test_regdb.sh   # for RegDB
