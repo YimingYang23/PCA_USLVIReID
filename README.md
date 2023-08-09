@@ -13,7 +13,7 @@ git clone https://github.com/YimingYang23/PCA_USLVIReID.git
 ### install dependencies
 - conda create -n PCAReID python==3.7
 - conda activate PCAReID
-- pip install -r requirements
+- pip install -r requirement.txt
 
 ### Training
 ```shell
