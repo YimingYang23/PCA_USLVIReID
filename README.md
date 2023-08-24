@@ -17,11 +17,11 @@ git clone https://github.com/YimingYang23/PCA_USLVIReID.git
 
 ### Training
 ```shell
-./PCA_sysu.sh   # for SYSU-MM01
-./PCA_regdb.sh  # for RegDB
+bash ./run_train_sysu.sh   # for SYSU-MM01
+bash ./run_train_regdb.sh  # for RegDB
 ```
 ### Testing
 ```shell
-./test_sysu.sh    # for SYSU-MM01
-./test_regdb.sh   # for RegDB
+bash ./test_sysu.sh    # for SYSU-MM01
+bash ./test_regdb.sh   # for RegDB
 ```
