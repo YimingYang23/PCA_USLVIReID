@@ -106,7 +106,7 @@ sh ./test_regdb.sh   # for RegDB
     <td class="tg-s4h7">82.95</td>
     <td class="tg-s4h7">72.97</td>
     <td class="tg-0udb">88.25</td>
-    <td class="tg-s4h7">95.1</td>
+    <td class="tg-s4h7">95.10</td>
     <td class="tg-s4h7">96.26</td>
     <td class="tg-s4h7">83.02</td>
     <td class="tg-s4h7">70.57</td>
@@ -117,7 +117,7 @@ sh ./test_regdb.sh   # for RegDB
     <td class="tg-s4h7">93.36</td>
     <td class="tg-s4h7">95.63</td>
     <td class="tg-s4h7">80.81</td>
-    <td class="tg-s4h7">71.1</td>
+    <td class="tg-s4h7">71.10</td>
     <td class="tg-0udb">83.93</td>
     <td class="tg-s4h7">92.67</td>
     <td class="tg-s4h7">94.51</td>
@@ -141,7 +141,7 @@ sh ./test_regdb.sh   # for RegDB
     <td class="tg-s4h7">5</td>
     <td class="tg-hi9g">85.29</td>
     <td class="tg-4jb6">94.22</td>
-    <td class="tg-4jb6">96.6</td>
+    <td class="tg-4jb6">96.60</td>
     <td class="tg-4jb6">81.29</td>
     <td class="tg-4jb6">70.52</td>
     <td class="tg-hi9g">85.44</td>
@@ -187,7 +187,7 @@ sh ./test_regdb.sh   # for RegDB
     <td class="tg-s4h7">93.59</td>
     <td class="tg-s4h7">95.73</td>
     <td class="tg-s4h7">82.53</td>
-    <td class="tg-s4h7">70.2</td>
+    <td class="tg-s4h7">70.20</td>
   </tr>
   <tr>
     <td class="tg-s4h7">9</td>
@@ -205,7 +205,7 @@ sh ./test_regdb.sh   # for RegDB
   <tr>
     <td class="tg-s4h7">10</td>
     <td class="tg-0udb">88.54</td>
-    <td class="tg-s4h7">95</td>
+    <td class="tg-s4h7">95.00</td>
     <td class="tg-s4h7">96.94</td>
     <td class="tg-s4h7">84.09</td>
     <td class="tg-s4h7">74.23</td>
