@@ -17,13 +17,13 @@ git clone https://github.com/YimingYang23/PCA_USLVIReID.git
 
 ### Training
 ```shell
-bash ./run_train_sysu.sh   # for SYSU-MM01
-bash ./run_train_regdb.sh  # for RegDB
+sh ./run_train_sysu.sh   # for SYSU-MM01
+sh ./run_train_regdb.sh  # for RegDB
 ```
 ### Testing
 ```shell
-bash ./test_sysu.sh    # for SYSU-MM01
-bash ./test_regdb.sh   # for RegDB
+sh ./test_sysu.sh    # for SYSU-MM01
+sh ./test_regdb.sh   # for RegDB
 ```
 ## Performance
 ### Performance on SYSU-MM01 (Batchsize = 64)
