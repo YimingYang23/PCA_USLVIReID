@@ -63,7 +63,7 @@ sh ./test_regdb.sh   # for RegDB
 </table>
 
 
-### Performance on RegDB (10 trial, Batchsize = 64)
+### Performance on RegDB (10 trials, Batchsize = 64)
 <table class="tg">
 <thead>
   <tr>
