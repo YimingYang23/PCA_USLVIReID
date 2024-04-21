@@ -26,6 +26,7 @@ sh ./test_sysu.sh    # for SYSU-MM01
 sh ./test_regdb.sh   # for RegDB
 ```
 ## Performance
+We conducted multiple tests of our method to achieve the best results.
 ### Performance on SYSU-MM01 (Batchsize = 64)
 <table class="tg">
 <thead>
