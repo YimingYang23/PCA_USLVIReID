@@ -1,5 +1,5 @@
 # Progressive Cross-modal Association Learning for Unsupervised Visible-Infrared Person Re-Identification
-
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10833701)
 # Dataset
 Put SYSU-MM01 and RegDB dataset into data/sysu and data/regdb, run prepare_sysu.py and prepare_regdb.py to convert the dataset format.
 
