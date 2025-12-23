@@ -21,10 +21,12 @@ sh ./run_train_sysu.sh   # for SYSU-MM01
 sh ./run_train_regdb.sh  # for RegDB
 ```
 ### Testing
+Before testing, you need to modify the path to the weights and the path to the dataset in test_sysu.py and test_regdb.py. Additionally, in test_regdb.py, you also need to modify the Trial accordingly.
 ```shell
-sh ./test_sysu.sh    # for SYSU-MM01
-sh ./test_regdb.sh   # for RegDB
+python ./test_sysu.py    # for SYSU-MM01
+python ./test_regdb.py   # for RegDB
 ```
+You may 
 ## Performance
 We conducted multiple tests of our method to achieve the best results.
 ### Performance on SYSU-MM01 (Batchsize = 64)
