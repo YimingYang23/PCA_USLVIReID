@@ -26,7 +26,7 @@ Before testing, you need to modify the path to the weights and the path to the d
 python ./test_sysu.py    # for SYSU-MM01
 python ./test_regdb.py   # for RegDB
 ```
-You may 
+
 ## Performance
 We conducted multiple tests of our method to achieve the best results.
 ### Performance on SYSU-MM01 (Batchsize = 64)
